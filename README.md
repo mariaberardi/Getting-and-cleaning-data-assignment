@@ -1,4 +1,4 @@
-# Getting-and-cleaning-the-data-assignment
+# Getting and cleaning the data assignment
 
 This repository contains my work for the course project *Getting and cleaning the Data*. It includes the following files, according to the instructions for the assignment:
 
