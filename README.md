@@ -1,6 +1,6 @@
 # Getting and cleaning data assignment
 
-This repository contains my work for the course project *Getting and cleaning the Data*. It includes the following files, according to the instructions for the assignment:
+This repository contains my work for the course project *Getting and cleaning data*. It includes the following files, according to the instructions for the assignment:
 
 README.md
 run_analysis.R
