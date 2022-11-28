@@ -17,4 +17,4 @@ http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartpho
 
 3.Install the dplyr package typing install.package("dplyr") 
 
-4.Run run_analysis.R to obtain the tidy_data.txt file. This file is provided in this repository as well. Details of the variables in this file, as well as the transformations performed to the original dataset, are described in the CodeBook.md file. 
+4.Run run_analysis.R to obtain the tidy_data.txt file. The user will need to modify the paths where stated in the comments. The output file is provided in this repository as well. Details of the variables in this file, as well as the transformations performed to the original dataset, are described in the CodeBook.md file. 
