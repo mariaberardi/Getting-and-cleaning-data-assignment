@@ -18,6 +18,6 @@ http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartpho
 
 1.Download the data from https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip and unzip to desired working directory. Use the default name of the folder.
 
-3.Install the dplyr package typing install.package("dplyr") 
+2.Install the dplyr package typing install.package("dplyr") 
 
-4.Run run_analysis.R to obtain the tidy_data.txt file. The user will need to modify the paths where stated in the comments. The output file is provided in this repository as well. Details of the variables in this file, as well as the transformations performed to the original dataset, are described in the CodeBook.md file. 
+3.Run run_analysis.R to obtain the tidy_data.txt file. The user will need to modify the paths where stated in the comments. The output file is provided in this repository as well. Details of the variables in this file, as well as the transformations performed to the original dataset, are described in the CodeBook.md file. 
