@@ -2,9 +2,12 @@
 
 This repository contains my work for the course project *Getting and cleaning data*. It includes the following files, according to the instructions for the assignment:
 
-README.md
-run_analysis.R
-tidy_data.txt
+README.md 
+
+run_analysis.R 
+
+tidy_data.txt 
+
 CodeBook.md
 
 The run_analysis.R file can be used to get and clean data from the accelerometers from the Samsung Galaxy S smartphone. A full description is available at the site where the data was obtained:
